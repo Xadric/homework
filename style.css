@@ -57,3 +57,16 @@
     grid-row-start: 3;
     grid-row-end: 4;
 }
+
+.ol {
+    list-style-type: lower-latin ;
+}
+ul{
+    list-style-type: "==";
+
+}
+
+.list{
+    color: #4682B4;
+
+}
